@@ -1,6 +1,6 @@
 This project is from WesBos' Node JS course.
 Topics and technologies included:
-User Accounts
+User Accounts 
 REST API endpoints
 Database Schemas
 Document Relationships
