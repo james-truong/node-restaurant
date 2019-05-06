@@ -1,3 +1,4 @@
+For the demo, visit https://now-thatsdelicious.herokuapp.com/
 This project is from WesBos' Node JS course.
 Topics and technologies included:
 -User Accounts 
